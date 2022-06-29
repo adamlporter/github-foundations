@@ -1,4 +1,4 @@
-# foundations-0-github
+# change project title
 
 **Module content**: [Introduction to GitHub](https://github.com/learn-static/foundations-github/blob/main/intro-github.md)
 
